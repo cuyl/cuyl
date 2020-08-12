@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Yuchao's github stats](https://github-readme-stats.vercel.app/api?username=cuyl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuyl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuyl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
