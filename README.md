@@ -15,30 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=cuyl&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cuyl"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=cuyl" alt="Yuchao's github stats" loading="lazy" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cuyl&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cuyl&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuyl&layout=compact" alt="Top Langs" loading="lazy" />
-</picture>
-<!--
 [![Yuchao's github stats](https://github-readme-stats.vercel.app/api?username=cuyl)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuyl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
